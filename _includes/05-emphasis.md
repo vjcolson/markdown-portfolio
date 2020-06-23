@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+GitHub's __Learning Lab__ is an excellent resource for a *nube* like me.
