@@ -1,7 +1,7 @@
 Favorite foods
-- Chocolate :candy:
+- Chocolate 
   - Especially *dark* chocolate
-- Strawberries :strawberry:
+- Strawberries 
   - But not chocolate covered strawberries
-- Shrimp :shrimp:
+- Shrimp
   - But *definitely not* chocolate covered shrimp with strawberries on the side!
