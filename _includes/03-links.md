@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[LCHC's test website](http://leecollegelibrary.com/lchc/lchc.edu/)
